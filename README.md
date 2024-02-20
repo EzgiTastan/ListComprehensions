@@ -1,6 +1,8 @@
 # **List Comprehensions in Python**
 ## **Overview**
 List comprehensions in Python offer a concise and expressive way to create lists. They allow you to generate lists by applying an expression to each element in an iterable and, if necessary, filter elements based on a condition. List comprehensions are widely used for their readability, brevity, and efficiency.
+- [x] In example.py, there exists a simple application example. :tada:
+
 
 ## **Syntax**
 The basic syntax of a list comprehension is as follows:
